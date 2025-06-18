@@ -54,11 +54,6 @@ Ensure the backend (e.g., Node.js + PostgreSQL) is running and exposing the foll
 - GET /api/centers/:center_id
 - GET /api/appointments/user/:user_id
 
-## ✅ To Do
-
-- Integrate dynamic user authentication (replace hardcoded user ID).
-- Connect the Add and View buttons to actual post/campaign management pages.
-- Expand dashboard to support filtering, search, and live status updates.
 
 ## 📁 File Location
 
@@ -71,7 +66,3 @@ Dashboard Layout:
 - Header with center name and logout
 - Cards for Posts, Campaigns, User Approval
 - Appointment status chart (line chart)
-
-## 💬 Feedback
-
-Feel free to fork this repo or open issues to suggest features or report bugs.
